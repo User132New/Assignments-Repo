@@ -1,2 +1,2 @@
 # Assignments-Repo
- University stuff
+ University stuff related to Python Language.
