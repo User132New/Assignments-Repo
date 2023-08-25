@@ -1,2 +1,4 @@
 # Assignments-Repo
- University stuff related to Python Language.
+ University Programs related to Python Language.
+Irrelevent, unless you're my teacher or fellow student.
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
