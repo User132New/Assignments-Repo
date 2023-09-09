@@ -1,3 +1,3 @@
 # Assignments-Repo.
-## Contain All the stuff for my assignmnents/Homework/Practicals.
+## Contain all the stuff for my Assignmnents/Homework/Practicals.
 ## Useless to random people.
