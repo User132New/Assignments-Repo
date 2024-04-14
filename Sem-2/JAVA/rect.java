@@ -6,5 +6,4 @@ public class rect {
 		double a = rec.area();
 		System.out.println("Area is "+a);		
 	}
-
 }
