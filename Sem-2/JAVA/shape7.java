@@ -14,3 +14,13 @@ class Rectangle extends shape7 {
         return length * width;
     }
 }
+
+class Circle extends shape7 {
+    double radius;
+    Circle(double radius) {
+        this.radius = radius;
+    }
+    double area() {
+        return Math.PI * radius * radius;
+    }
+}

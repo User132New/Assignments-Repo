@@ -9,6 +9,7 @@ public class Box1 {
 		this.wid = wid;
 		this.hei = hei;
 	}
+	
 	public Box1(double x, double y) {
 		this.len = x;
 		this.wid = y;

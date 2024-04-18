@@ -7,6 +7,6 @@ public class First {
 		c = Float.parseFloat(s[2]);
 		max = a>b?a:b;
 		max= max>c?max:c;
-		System.out.println(max);
+		System.out.println("max is : "+max);
 		}
 }

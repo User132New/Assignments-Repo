@@ -7,7 +7,8 @@ public class third {
 		for (int i=0; i<s1.length();i++)
 		{
 			int p = i+1;
-			System.out.println("Character at "+p+": "+s1.charAt(i));
+			System.out.println("Character at "+p+": "
+			+s1.charAt(i));
 		}
 		String s2 = new String(s1.toString());
 		int pos = s2.indexOf("is");
